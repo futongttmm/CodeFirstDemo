@@ -50,10 +50,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\Genre.cs" />
+    <Compile Include="Models\Video.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="VidzyDbContext.cs" />
+    <Compile Include="Repository\VidzyDbContext.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

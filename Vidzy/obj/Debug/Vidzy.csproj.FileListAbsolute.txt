@@ -10,3 +10,14 @@ D:\Database\Vidzy\Vidzy\obj\Debug\Vidzy.csproj.CopyComplete
 D:\Database\Vidzy\Vidzy\obj\Debug\Vidzy.exe
 D:\Database\Vidzy\Vidzy\obj\Debug\Vidzy.pdb
 D:\Database\Vidzy\Vidzy\obj\Debug\Vidzy.csprojAssemblyReference.cache
+D:\test\CodeFirstDemo\Vidzy\bin\Debug\Vidzy.exe.config
+D:\test\CodeFirstDemo\Vidzy\bin\Debug\Vidzy.exe
+D:\test\CodeFirstDemo\Vidzy\bin\Debug\Vidzy.pdb
+D:\test\CodeFirstDemo\Vidzy\bin\Debug\EntityFramework.dll
+D:\test\CodeFirstDemo\Vidzy\bin\Debug\EntityFramework.SqlServer.dll
+D:\test\CodeFirstDemo\Vidzy\bin\Debug\EntityFramework.xml
+D:\test\CodeFirstDemo\Vidzy\bin\Debug\EntityFramework.SqlServer.xml
+D:\test\CodeFirstDemo\Vidzy\obj\Debug\Vidzy.csproj.CoreCompileInputs.cache
+D:\test\CodeFirstDemo\Vidzy\obj\Debug\Vidzy.csproj.CopyComplete
+D:\test\CodeFirstDemo\Vidzy\obj\Debug\Vidzy.exe
+D:\test\CodeFirstDemo\Vidzy\obj\Debug\Vidzy.pdb
